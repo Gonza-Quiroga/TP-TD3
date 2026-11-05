@@ -1,0 +1,5 @@
+if(EXISTS "/workspaces/taller2-codigo/build/test_parte4[1]_tests.cmake")
+  include("/workspaces/taller2-codigo/build/test_parte4[1]_tests.cmake")
+else()
+  add_test(test_parte4_NOT_BUILT test_parte4_NOT_BUILT)
+endif()

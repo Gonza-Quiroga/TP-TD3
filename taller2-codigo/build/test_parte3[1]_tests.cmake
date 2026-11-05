@@ -1,0 +1,5 @@
+add_test( Borrado.01_borrar_ultimo /workspaces/taller2-codigo/build/test_parte3 [==[--gtest_filter=Borrado.01_borrar_ultimo]==] --gtest_also_run_disabled_tests)
+set_tests_properties( Borrado.01_borrar_ultimo PROPERTIES WORKING_DIRECTORY /workspaces/taller2-codigo/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( Borrado.02_borrar_iesimo /workspaces/taller2-codigo/build/test_parte3 [==[--gtest_filter=Borrado.02_borrar_iesimo]==] --gtest_also_run_disabled_tests)
+set_tests_properties( Borrado.02_borrar_iesimo PROPERTIES WORKING_DIRECTORY /workspaces/taller2-codigo/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set( test_parte3_TESTS Borrado.01_borrar_ultimo Borrado.02_borrar_iesimo)

@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/workspaces/taller2-codigo/build",
+  "command": "/usr/bin/g++  -std=c++17 -g -o CMakeFiles/main.dir/main.cpp.o -c /workspaces/taller2-codigo/main.cpp",
+  "file": "/workspaces/taller2-codigo/main.cpp"
+},
+{
+  "directory": "/workspaces/taller2-codigo/build",
+  "command": "/usr/bin/g++ -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest/include -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest  -std=c++17 -g -o CMakeFiles/test_parte1.dir/test_parte1.cpp.o -c /workspaces/taller2-codigo/test_parte1.cpp",
+  "file": "/workspaces/taller2-codigo/test_parte1.cpp"
+},
+{
+  "directory": "/workspaces/taller2-codigo/build",
+  "command": "/usr/bin/g++ -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest/include -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest  -std=c++17 -g -o CMakeFiles/test_parte2.dir/test_parte2.cpp.o -c /workspaces/taller2-codigo/test_parte2.cpp",
+  "file": "/workspaces/taller2-codigo/test_parte2.cpp"
+},
+{
+  "directory": "/workspaces/taller2-codigo/build",
+  "command": "/usr/bin/g++ -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest/include -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest  -std=c++17 -g -o CMakeFiles/test_parte3.dir/test_parte3.cpp.o -c /workspaces/taller2-codigo/test_parte3.cpp",
+  "file": "/workspaces/taller2-codigo/test_parte3.cpp"
+},
+{
+  "directory": "/workspaces/taller2-codigo/build",
+  "command": "/usr/bin/g++ -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest/include -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest  -std=c++17 -g -o CMakeFiles/test_parte4.dir/test_parte4.cpp.o -c /workspaces/taller2-codigo/test_parte4.cpp",
+  "file": "/workspaces/taller2-codigo/test_parte4.cpp"
+},
+{
+  "directory": "/workspaces/taller2-codigo/build",
+  "command": "/usr/bin/g++ -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest/include -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest  -std=c++17 -g -o CMakeFiles/test_parte5.dir/test_parte5.cpp.o -c /workspaces/taller2-codigo/test_parte5.cpp",
+  "file": "/workspaces/taller2-codigo/test_parte5.cpp"
+},
+{
+  "directory": "/workspaces/taller2-codigo/build",
+  "command": "/usr/bin/g++ -I/workspaces/taller2-codigo/build/_deps/googletest-src/googlemock/include -I/workspaces/taller2-codigo/build/_deps/googletest-src/googlemock -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest/include -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest  -std=c++17 -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /workspaces/taller2-codigo/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/workspaces/taller2-codigo/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/workspaces/taller2-codigo/build",
+  "command": "/usr/bin/g++ -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googlemock/include -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googlemock -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest/include -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest  -std=c++17 -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /workspaces/taller2-codigo/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/workspaces/taller2-codigo/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/workspaces/taller2-codigo/build",
+  "command": "/usr/bin/g++ -I/workspaces/taller2-codigo/build/_deps/googletest-src/googletest/include -I/workspaces/taller2-codigo/build/_deps/googletest-src/googletest  -std=c++17 -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /workspaces/taller2-codigo/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/workspaces/taller2-codigo/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/workspaces/taller2-codigo/build",
+  "command": "/usr/bin/g++ -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest/include -isystem /workspaces/taller2-codigo/build/_deps/googletest-src/googletest  -std=c++17 -g -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /workspaces/taller2-codigo/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/workspaces/taller2-codigo/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]

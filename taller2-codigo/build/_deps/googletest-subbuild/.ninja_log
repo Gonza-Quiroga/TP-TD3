@@ -1,0 +1,21 @@
+# ninja log v5
+45	168	1751238404121943700	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	e132bd5de20d1064
+45	168	1751238404121943700	/workspaces/taller2-codigo/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	e132bd5de20d1064
+182	3941	1751238407894203200	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	52b3f58f31857a84
+182	3941	1751238407894203200	/workspaces/taller2-codigo/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	52b3f58f31857a84
+3948	3977	1751238407930114900	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	39abdc87495253dc
+3948	3977	1751238407930114900	/workspaces/taller2-codigo/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	39abdc87495253dc
+3986	4016	1751238407970723600	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d1ec5a1a5e70b93a
+3986	4016	1751238407970723600	/workspaces/taller2-codigo/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	d1ec5a1a5e70b93a
+4024	4058	1751238408010162800	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f73ec4ae00f883e6
+4024	4058	1751238408010162800	/workspaces/taller2-codigo/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f73ec4ae00f883e6
+4069	4108	1751238408062087800	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	efb0e8d5f51b7dd4
+4069	4108	1751238408062087800	/workspaces/taller2-codigo/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	efb0e8d5f51b7dd4
+4116	4154	1751238408108082500	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	eb9fdce8ce38397a
+4116	4154	1751238408108082500	/workspaces/taller2-codigo/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	eb9fdce8ce38397a
+4163	4198	1751238408152450900	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d0e1b45e40ae50a0
+4163	4198	1751238408152450900	/workspaces/taller2-codigo/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d0e1b45e40ae50a0
+4207	4259	1751238408211002700	CMakeFiles/googletest-populate-complete	8f1b06436ae2a860
+4207	4259	1751238408211002700	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8f1b06436ae2a860
+4207	4259	1751238408211002700	/workspaces/taller2-codigo/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	8f1b06436ae2a860
+4207	4259	1751238408211002700	/workspaces/taller2-codigo/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	8f1b06436ae2a860

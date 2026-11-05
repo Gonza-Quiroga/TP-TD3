@@ -1,0 +1,7 @@
+add_test( Retroceder.01_retroceder_cambia_el_cursor_al_elemento_anterior /workspaces/taller2-codigo/build/test_parte5 [==[--gtest_filter=Retroceder.01_retroceder_cambia_el_cursor_al_elemento_anterior]==] --gtest_also_run_disabled_tests)
+set_tests_properties( Retroceder.01_retroceder_cambia_el_cursor_al_elemento_anterior PROPERTIES WORKING_DIRECTORY /workspaces/taller2-codigo/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( Retroceder.02_retroceder_se_manitene_en_el_primer_elemento /workspaces/taller2-codigo/build/test_parte5 [==[--gtest_filter=Retroceder.02_retroceder_se_manitene_en_el_primer_elemento]==] --gtest_also_run_disabled_tests)
+set_tests_properties( Retroceder.02_retroceder_se_manitene_en_el_primer_elemento PROPERTIES WORKING_DIRECTORY /workspaces/taller2-codigo/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( Retroceder.03_avanzar_y_retroceder_funcionan_tras_borrar_elementos /workspaces/taller2-codigo/build/test_parte5 [==[--gtest_filter=Retroceder.03_avanzar_y_retroceder_funcionan_tras_borrar_elementos]==] --gtest_also_run_disabled_tests)
+set_tests_properties( Retroceder.03_avanzar_y_retroceder_funcionan_tras_borrar_elementos PROPERTIES WORKING_DIRECTORY /workspaces/taller2-codigo/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set( test_parte5_TESTS Retroceder.01_retroceder_cambia_el_cursor_al_elemento_anterior Retroceder.02_retroceder_se_manitene_en_el_primer_elemento Retroceder.03_avanzar_y_retroceder_funcionan_tras_borrar_elementos)
